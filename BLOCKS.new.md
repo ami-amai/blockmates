@@ -14,13 +14,12 @@
 * [Золотой блок](BLOCKS_DESCRIPTION.md#золотой-блок)
 * [Алмазный блок](BLOCKS_DESCRIPTION.md#алмазный-блок)
 
-
 ### Блоки действия
 
 * [Магма](BLOCKS_DESCRIPTION.md#магма)
-* [Лед](BLOCKS_DESCRIPTION.md#лед)
 
 ### Усилители
 
 * [Дерево](BLOCKS_DESCRIPTION.md#дерево)
 * [Камень](BLOCKS_DESCRIPTION.md#камень)
+* [Лед](BLOCKS_DESCRIPTION.md#лед)
