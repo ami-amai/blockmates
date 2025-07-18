@@ -8,6 +8,7 @@
 * [**Классический**](./rules/CLASSIC.md)
     * [Старый набор блоков](BLOCKS.md)
     * [Новый набор блоков](BLOCKS.new.md)
+* [**Преклассический**](./rules/PRECLASSIC.md)
 
 
 
