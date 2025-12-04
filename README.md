@@ -1,4 +1,4 @@
-# Miness
+# Blockmates
 
 EN | [RU](./ru/README.md)
 
