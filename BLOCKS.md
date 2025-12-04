@@ -1,87 +1,89 @@
-# Основной набор блоков
+# Main Block Set
 
-## Взаимодействие
-* Радиус любого взаимодействия 1 блок (область 3x3)
-* Взаимодействие распространяется как на свои, так и на чужие блоки, в том числе разрушение
+EN | [RU](./ru/BLOCKS.md)
 
-## Редкость
-* В зависимости от типа, при разрушении вычитаются баллы:
-    * Обычный: **-1**
-    * Особый: **-3**
-    * Уникальный: **-6**
-    * Драгоценный: **-12**
-    * Исключение: Указаны если есть
+## Interaction
+* Any interaction radius is 1 block (3x3 area)
+* Interaction extends to both own and foreign blocks, including destruction
 
-## Категории
-* В зависимости от важности, блоки сортированы на следующие категории:
-    * Простые - дают очки без каких-либо условий
-    * Зависимые - дают орки, зависящие от других блоков
-    * Активные - напрямую влияют на другие блоки
+## Rarity
+* Depending on the type, points are subtracted upon destruction:
+    * Common: **-1**
+    * Special: **-3**
+    * Unique: **-6**
+    * Legendary: **-12**
+    * Exception: Indicated if any
 
-## Терминология
-* **БЛОК** - любой блок
+## Categories
+* Depending on importance, blocks are sorted into the following categories:
+    * Simple - give points without any conditions
+    * Dependent - give points depending on other blocks
+    * Active - directly affect other blocks
 
-### Простые
+## Terminology
+* **BLOCK** - any block
 
-* [**ЛИСТВА**](#листва)
-* [**ЗОЛОТО**](#золото)
+### Simple
 
-### Зависимые
+* [**LEAVES**](#leaves)
+* [**GOLD**](#gold)
 
-* [**ДЕРЕВО**](#дерево)
-* [**КАМЕНЬ**](#камень)
-* [**АЛМАЗ**](#алмаз)
+### Dependent
 
-### Активные
+* [**WOOD**](#wood)
+* [**STONE**](#stone)
+* [**DIAMOND**](#diamond)
 
-* [**ЛЕД**](#лед)
-* [**МАГМА**](#магма)
+### Active
 
-## Блоки
+* [**ICE**](#ice)
+* [**MAGMA**](#magma)
 
-### ЛИСТВА
-* **Тип:** [Обычный](#редкость)
-* **Действие:**
+## Blocks
+
+### LEAVES
+* **Type:** [Common](#rarity)
+* **Action:**
     * +1
-* **Разрушение:**
+* **Destruction:**
 
-### ДЕРЕВО
-* **Тип:** [Особый](#редкость)
-* **Действие:**
-    * +2 за Каждый **ЛИСТВА**
-* **Разрушение:**
+### WOOD
+* **Type:** [Special](#rarity)
+* **Action:**
+    * +2 per Each **LEAVES**
+* **Destruction:**
 
-### КАМЕНЬ
-* **Тип:** [Уникальный](#редкость)
-* **Действие:**
-    * -1 за Отсутсвие **ДЕРЕВО**
-    * +2 за Каждый **ДЕРЕВО**
-* **Разрушение:**
+### STONE
+* **Type:** [Unique](#rarity)
+* **Action:**
+    * -1 for Absence of **WOOD**
+    * +2 per Each **WOOD**
+* **Destruction:**
 
-### ЛЕД
-* **Тип:** [Уникальный](#редкость)
-* **Действие:**
-    * +6 за **МАГМА**
-    * Разрушение **МАГМА**
-* **Разрушение:**
+### ICE
+* **Type:** [Unique](#rarity)
+* **Action:**
+    * +6 for **MAGMA**
+    * Destruction of **MAGMA**
+* **Destruction:**
 
-### МАГМА
-* **Тип:** [Уникальный](#редкость)
-* **Действие:**
-    * Разрушение **БЛОК**
-    * -1 за Каждый **БЛОК**
-* **Разрушение:**
-    * 0 за Разрушение от **ЛЕД**
+### MAGMA
+* **Type:** [Unique](#rarity)
+* **Action:**
+    * Destruction of **BLOCK**
+    * -1 per Each **BLOCK**
+* **Destruction:**
+    * 0 for Destruction by **ICE**
 
-### ЗОЛОТО
-* **Тип:** [Драгоценный](#редкость)
-* **Действие:**
+### GOLD
+* **Type:** [Legendary](#rarity)
+* **Action:**
     * +6
-* **Разрушение:**
+* **Destruction:**
 
-### АЛМАЗ
-* **Тип:** [Драгоценный](#редкость)
-* **Действие:**
+### DIAMOND
+* **Type:** [Legendary](#rarity)
+* **Action:**
     * +12
-    * +6 за Каждый **ЗОЛОТО**
-* **Разрушение:**
+    * +6 per Each **GOLD**
+* **Destruction:**

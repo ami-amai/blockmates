@@ -1,65 +1,67 @@
 # Miness
 
-## Описание
+EN | [RU](./ru/README.md)
 
-* Настольная ванильная Minecraft игра про поочередную установку блоков. Побеждает игрок с наибольшим количеством очков после последнего поставленного блока
+## Description
 
-## Содержание
+*   A desktop vanilla Minecraft game about turn-based block placement. The player with the highest score after the last placed block wins.
 
-* [**Описание**](#описание)
-* [**Необходимое**](#необходимое)
-* [**Блоки**](./BLOCKS.md) - основной набор действий блоков
-* [**Правила**](./RULES.md) - основные правила игры
+## Contents
 
-## Необходимое
+*   [**Description**](#description)
+*   [**Essentials**](#essentials)
+*   [**Blocks**](./BLOCKS.md) - main set of block actions
+*   [**Rules**](./RULES.md) - basic game rules
 
-* [**Блоки**](./BLOCKS.md) (2 набора)
-* Шерсть (2 цвета)
-* Поле
-* Таблички с именем и счетом
-* Рамки
+## Essentials
 
-## Игровой процесс
+*   [**Blocks**](./BLOCKS.md) (2 sets)
+*   Wool (2 colors)
+*   Board
+*   Signs with name and score
+*   Item Frames
 
-### Подготовка к игре
+## Gameplay
 
-Перед началом партии каждый игрок получает **набор блоков** согласно выбранному варианту правил. Игроки выбирают цвет шерсти — это будет маркер их блоков на поле.
+### Game Setup
 
-> **Важно:** наборы обоих игроков идентичны
+Before the start of the game, each player receives a **set of blocks** according to the selected rule variant. Players choose a wool color — this will be the marker for their blocks on the board.
 
-### Ход игрока
+> **Important:** the sets of both players are identical
 
-Каждый ход состоит из следующих этапов:
+### Player Turn
 
-#### 1. Размещение маркера
-Игрок выбирает **свободную клетку** на игровом поле и устанавливает туда:
-- Шерсть своего цвета (в качестве маркера)
-- Рамку поверх шерсти для последующей установки блока
+Each turn consists of the following stages:
 
-#### 2. Установка блока
-Игрок выбирает **один блок** из своего набора и помещает его в установленную рамку.
+#### 1. Placing a marker
+The player chooses a **free cell** on the game board and places there:
+-   Wool of their color (as a marker)
+-   An Item Frame on top of the wool for subsequent block placement
 
-> **Важно:** поменять блок и место можно до подсчёта очков
+#### 2. Placing a block
+The player chooses **one block** from their set and places it into the installed item frame.
 
-#### 3. Подсчёт результатов хода
-После установки блока необходимо:
-- Проверить, какие блоки **разрушаются**
-- Подсчитать **очки**, полученные или потерянные за этот ход
-- Убрать **разрушенные** блоки с поля
-- Записать **обновлённый счёт** на табличку
+> **Important:** changing the block and place is allowed before scoring
 
-> **Важно:** разрушенные блоки вычитают очки **владельцам разрушенных блоков**
+#### 3. Scoring the turn
+After placing the block, it is necessary to:
+-   Check which blocks are **destroyed**
+-   Calculate **points** gained or lost this turn
+-   Remove **destroyed** blocks from the board
+-   Write the **updated score** on the sign
 
-> **Важно:** разрушенные блоки **выбывают** из игры 
+> **Important:** destroyed blocks subtract points from the **owners of the destroyed blocks**
 
-### Чередование ходов
+> **Important:** destroyed blocks are **eliminated** from the game
 
-Игроки ходят **по очереди**, без возможности пропустить ход
+### Turn Alternation
 
-### Завершение игры
+Players move **in turns**, without the option to skip a turn.
 
-Игра **заканчивается**, когда устанавливается **последний блок последнего игрока**.
+### End of Game
 
-### Определение победителя
+The game **ends** when the **last block of the last player** is placed.
 
-**Побеждает игрок**, набравший **наибольшее количество очков** к моменту окончания игры.
+### Determining the Winner
+
+**The winner is the player** who has scored the **highest number of points** by the moment the game ends.

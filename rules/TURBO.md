@@ -1,10 +1,12 @@
-# Турбо набор правил
+# Turbo Ruleset
 
-* **Поле:** 6x6
-* **Блоки:** [Стандартный](../BLOCKS.md)
-* **Набор блоков:**
-    * [3] [Листва](../BLOCKS.md#листва)
-    * [2] [Дерево](../BLOCKS.md#дерево)
-    * [1] [Лед](../BLOCKS.md#лед)
-    * [1] [Магма](../BLOCKS.md#магма)
-    * [2] [Золото](../BLOCKS.md#золото)
+EN | [RU](../ru/rules/TURBO.md)
+
+* **Board:** 6x6
+* **Blocks:** [Standard](../BLOCKS.md)
+* **Block Set:**
+    *  3 [Leaves](../BLOCKS.md#leaves)
+    *  2 [Wood](../BLOCKS.md#wood)
+    *  1 [Ice](../BLOCKS.md#ice)
+    *  1 [Magma](../BLOCKS.md#magma)
+    *  2 [Gold](../BLOCKS.md#gold)

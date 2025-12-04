@@ -1,12 +1,14 @@
-# Основной набор правил
+# Main Ruleset
 
-* **Поле:** 8x8
-* **Блоки:** [Стандартный](./BLOCKS.md)
-* **Набор блоков:**
-    * [5] [Листва](./BLOCKS.md#листва)
-    * [3] [Дерево](./BLOCKS.md#дерево)
-    * [3] [Камень](./BLOCKS.md#камень)
-    * [2] [Лед](./BLOCKS.md#лед)
-    * [2] [Магма](./BLOCKS.md#магма)
-    * [2] [Золото](./BLOCKS.md#золото)
-    * [1] [Алмаз](./BLOCKS.md#алмаз)
+EN | [RU](./ru/RULES.md)
+
+* **Board:** 8x8
+* **Blocks:** [Standard](./BLOCKS.md)
+* **Block Set:**
+    *  5 [Leaves](./BLOCKS.md#leaves)
+    *  3 [Wood](./BLOCKS.md#wood)
+    *  3 [Stone](./BLOCKS.md#stone)
+    *  2 [Ice](./BLOCKS.md#ice)
+    *  2 [Magma](./BLOCKS.md#magma)
+    *  2 [Gold](./BLOCKS.md#gold)
+    *  1 [Diamond](./BLOCKS.md#diamond)
