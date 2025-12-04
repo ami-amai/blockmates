@@ -9,8 +9,8 @@ EN | [RU](./ru/BLOCKS.md)
 ## Rarity
 * Depending on the type, points are subtracted upon destruction:
     * Common: **-1**
-    * Special: **-3**
-    * Unique: **-6**
+    * Rare: **-3**
+    * Epic: **-6**
     * Legendary: **-12**
     * Exception: Indicated if any
 
@@ -48,27 +48,27 @@ EN | [RU](./ru/BLOCKS.md)
 * **Destruction:**
 
 ### WOOD
-* **Type:** [Special](#rarity)
+* **Type:** [Rare](#rarity)
 * **Action:**
     * +2 per Each **LEAVES**
 * **Destruction:**
 
 ### STONE
-* **Type:** [Unique](#rarity)
+* **Type:** [Epic](#rarity)
 * **Action:**
     * -1 for Absence of **WOOD**
     * +2 per Each **WOOD**
 * **Destruction:**
 
 ### ICE
-* **Type:** [Unique](#rarity)
+* **Type:** [Epic](#rarity)
 * **Action:**
     * +6 for **MAGMA**
     * Destruction of **MAGMA**
 * **Destruction:**
 
 ### MAGMA
-* **Type:** [Unique](#rarity)
+* **Type:** [Epic](#rarity)
 * **Action:**
     * Destruction of **BLOCK**
     * -1 per Each **BLOCK**
