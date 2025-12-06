@@ -10,8 +10,8 @@ EN | [RU](./ru/README.md)
 
 *   [**Description**](#description)
 *   [**Essentials**](#essentials)
-*   [**Blocks**](./BLOCKS.md) - main set of block actions
-*   [**Rules**](./RULES.md) - basic game rules
+*   [**Blocks**](/blocks/DEFAULT.md) - main set of block actions
+*   [**Rules**](/sets/DEFAULT_MIDDLE.md) - basic game rules
 
 ## Essentials
 

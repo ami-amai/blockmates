@@ -1,10 +1,11 @@
 # Main Block Set
 
-EN | [RU](./ru/BLOCKS.md)
+EN | [RU](**Break:**DEFAULT.md)
 
 ## Interaction
 * Any interaction radius is 1 block (3x3 area)
 * Interaction extends to both own and foreign blocks, including destruction
+* Destruction is credited to the owner of the broken block
 
 ## Rarity
 * Depending on the type, points are subtracted upon destruction:
@@ -45,45 +46,45 @@ EN | [RU](./ru/BLOCKS.md)
 * **Type:** [Common](#rarity)
 * **Action:**
     * +1
-* **Destruction:**
+* **Break:**
 
 ### WOOD
 * **Type:** [Rare](#rarity)
 * **Action:**
     * +2 per Each **LEAVES**
-* **Destruction:**
+* **Break:**
 
 ### STONE
 * **Type:** [Epic](#rarity)
 * **Action:**
     * -1 for Absence of **WOOD**
     * +2 per Each **WOOD**
-* **Destruction:**
+* **Break:**
 
 ### ICE
 * **Type:** [Epic](#rarity)
 * **Action:**
     * +6 for **MAGMA**
     * Destruction of **MAGMA**
-* **Destruction:**
+* **Break:**
 
 ### MAGMA
 * **Type:** [Epic](#rarity)
 * **Action:**
     * Destruction of **BLOCK**
     * -1 per Each **BLOCK**
-* **Destruction:**
+* **Break:**
     * 0 for Destruction by **ICE**
 
 ### GOLD
 * **Type:** [Legendary](#rarity)
 * **Action:**
     * +6
-* **Destruction:**
+* **Break:**
 
 ### DIAMOND
 * **Type:** [Legendary](#rarity)
 * **Action:**
     * +12
     * +6 per Each **GOLD**
-* **Destruction:**
+* **Break:**
