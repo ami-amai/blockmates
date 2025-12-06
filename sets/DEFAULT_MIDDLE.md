@@ -2,7 +2,7 @@
 
 ## Language
 
-EN | [RU](/ru/sets/DEFAULT_MIDDLE.md)
+**EN** | [RU](/ru/sets/DEFAULT_MIDDLE.md)
 
 ## Field
 * 6x6
@@ -16,14 +16,14 @@ EN | [RU](/ru/sets/DEFAULT_MIDDLE.md)
 
 ### Set
 
-* [Standard](/blocks/DEFAULT.md)
+* [Standard](/rules/DEFAULT.md)
 
 ### List
 
-* **5** [Leaves](/blocks/DEFAULT.md#leaves)
-* **3** [Wood](/blocks/DEFAULT.md#wood)
-* **3** [Stone](/blocks/DEFAULT.md#stone)
-* **2** [Ice](/blocks/DEFAULT.md#ice)
-* **2** [Magma Block](/blocks/DEFAULT.md#magma)
-* **2** [Gold](/blocks/DEFAULT.md#gold)
-* **1** [Diamond](/blocks/DEFAULT.md#diamond)
+* **5** [Leaves](/rules/DEFAULT.md#leaves)
+* **3** [Wood](/rules/DEFAULT.md#wood)
+* **3** [Stone](/rules/DEFAULT.md#stone)
+* **2** [Ice](/rules/DEFAULT.md#ice)
+* **2** [Magma Block](/rules/DEFAULT.md#magma)
+* **2** [Gold](/rules/DEFAULT.md#gold)
+* **1** [Diamond](/rules/DEFAULT.md#diamond)

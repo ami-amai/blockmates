@@ -23,8 +23,8 @@
 
 ### Набор
 
-[Стандартный](/ru/blocks/DEFAULT.md)
+[Стандартный](/ru/rules/DEFAULT.md)
 
 #### Список
 
-* **КОЛИЧЕСТВО** [Листва](/ru/blocks/DEFAULT.md#листва)
+* **КОЛИЧЕСТВО** [Листва](/ru/rules/DEFAULT.md#листва)

@@ -2,7 +2,7 @@
 
 ## Language
 
-EN | [RU](/ru/sets/TURBO_HALF_MIDDLE.md)
+**EN** | [RU](/ru/sets/TURBO_HALF_MIDDLE.md)
 
 ## Field
 * 6x6
@@ -16,13 +16,13 @@ EN | [RU](/ru/sets/TURBO_HALF_MIDDLE.md)
 
 ### Set
 
-* [Standard](/blocks/DEFAULT.md)
+* [Standard](/rules/DEFAULT.md)
 
 ### List
 
-* **3** [Leaves](/ru/blocks/DEFAULT.md#leaves)
-* **2** [Wood](/ru/blocks/DEFAULT.md#wood)
-* **1** [Ice](/ru/blocks/DEFAULT.md#ice)
-* **1** [Magma Block](/ru/blocks/DEFAULT.md#magma)
-* **1** [Gold](/ru/blocks/DEFAULT.md#gold)
-* **1** [Diamond](/ru/blocks/DEFAULT.md#diamond)
+* **3** [Leaves](/ru/rules/DEFAULT.md#leaves)
+* **2** [Wood](/ru/rules/DEFAULT.md#wood)
+* **1** [Ice](/ru/rules/DEFAULT.md#ice)
+* **1** [Magma Block](/ru/rules/DEFAULT.md#magma)
+* **1** [Gold](/ru/rules/DEFAULT.md#gold)
+* **1** [Diamond](/ru/rules/DEFAULT.md#diamond)

@@ -2,7 +2,7 @@
 
 ## Язык
 
-[EN](/sets/DEFAULT_MIDDLE.md) | RU
+[EN](/sets/DEFAULT_MIDDLE.md) | **RU**
 
 ## Поле
 * 6x6
@@ -16,14 +16,14 @@
 
 ### Набор
 
-* [Стандартный](/ru/blocks/DEFAULT.md)
+* [Стандартный](/ru/rules/DEFAULT.md)
 
 ### Список
 
-* **5** [Листва](/ru/blocks/DEFAULT.md#листва)
-* **3** [Дерево](/ru/blocks/DEFAULT.md#дерево)
-* **3** [Камень](/ru/blocks/DEFAULT.md#камень)
-* **2** [Лед](/ru/blocks/DEFAULT.md#лед)
-* **2** [Магма](/ru/blocks/DEFAULT.md#магма)
-* **2** [Золото](/ru/blocks/DEFAULT.md#золото)
-* **1** [Алмаз](/ru/blocks/DEFAULT.md#алмаз)
+* **5** [Листва](/ru/rules/DEFAULT.md#листва)
+* **3** [Дерево](/ru/rules/DEFAULT.md#дерево)
+* **3** [Камень](/ru/rules/DEFAULT.md#камень)
+* **2** [Лед](/ru/rules/DEFAULT.md#лед)
+* **2** [Магма](/ru/rules/DEFAULT.md#магма)
+* **2** [Золото](/ru/rules/DEFAULT.md#золото)
+* **1** [Алмаз](/ru/rules/DEFAULT.md#алмаз)

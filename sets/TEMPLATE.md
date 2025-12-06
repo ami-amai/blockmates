@@ -23,8 +23,8 @@
 
 ### Set
 
-[Standard](/blocks/DEFAULT.md)
+[Standard](/rules/DEFAULT.md)
 
 #### List
 
-* **QUANTITY** [Leaves](/blocks/DEFAULT.md#leaves)
+* **QUANTITY** [Leaves](/rules/DEFAULT.md#leaves)
