@@ -1,6 +1,6 @@
-# Main Block Set
+# Main Rules
 
-EN | [RU](**Break:**DEFAULT.md)
+EN | [RU](/ru/rules/DEFAULT.md)
 
 ## Interaction
 * Any interaction radius is 1 block (3x3 area)
