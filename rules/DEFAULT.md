@@ -57,8 +57,8 @@ EN | [RU](/ru/rules/DEFAULT.md)
 ### STONE
 * **Type:** [Epic](#rarity)
 * **Action:**
-    * -1 for Absence of **WOOD**
-    * +2 per Each **WOOD**
+    * +3 for Absence of **STONE**
+    * +3 per Each **STONE**
 * **Break:**
 
 ### ICE
