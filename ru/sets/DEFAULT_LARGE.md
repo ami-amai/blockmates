@@ -20,9 +20,8 @@
 ### Список
 
 * **10** [Листва](/ru/rules/DEFAULT.md#листва)
-* **5** [Дерево](/ru/rules/DEFAULT.md#дерево)
-* **5** [Камень](/ru/rules/DEFAULT.md#камень)
-* **3** [Лед](/ru/rules/DEFAULT.md#лед)
-* **3** [Магма](/ru/rules/DEFAULT.md#магма)
+* **6** [Дерево](/ru/rules/DEFAULT.md#дерево)
+* **5** [Лед](/ru/rules/DEFAULT.md#лед)
+* **5** [Магма](/ru/rules/DEFAULT.md#магма)
 * **5** [Золото](/ru/rules/DEFAULT.md#золото)
 * **1** [Алмаз](/ru/rules/DEFAULT.md#алмаз)

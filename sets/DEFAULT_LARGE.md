@@ -20,9 +20,8 @@
 ### List
 
 * **10** [Leaves](/rules/DEFAULT.md#leaves)
-* **5** [Wood](/rules/DEFAULT.md#wood)
-* **5** [Stone](/rules/DEFAULT.md#stone)
-* **3** [Ice](/rules/DEFAULT.md#ice)
-* **3** [Magma Block](/rules/DEFAULT.md#magma)
+* **6** [Wood](/rules/DEFAULT.md#wood)
+* **5** [Ice](/rules/DEFAULT.md#ice)
+* **5** [Magma Block](/rules/DEFAULT.md#magma)
 * **5** [Gold](/rules/DEFAULT.md#gold)
 * **1** [Diamond](/rules/DEFAULT.md#diamond)
