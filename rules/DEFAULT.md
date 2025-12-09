@@ -1,12 +1,8 @@
-Here is the translation of the standard game rules into English with the link updated.
+# Default Rules
 
-***
+[EN](/rules/DEFAULT.md) | RU
 
-# Standard Rules
-
-EN | [RU](/rules/DEFAULT.md)
-
-## Contents
+## Table of Contents
 
 * [Interaction](#interaction)
 * [Rarity](#rarity)
@@ -15,92 +11,93 @@ EN | [RU](/rules/DEFAULT.md)
 * [Blocks](#blocks)
 
 ## Interaction
-* The radius of any interaction is 1 block (a 3x3 area).
-* Interaction applies to both one's own blocks and opponent's blocks, including Break.
-* Break counts towards the owner of the destroyed block.
+* The interaction radius for any action is 1 block (a 3x3 area)
+* Interaction applies to both your own and other players' blocks, including destruction
+* Destruction is credited to the owner of the destroyed block
 
 ## Rarity
-* Depending on the type, points are deducted upon Break:
+* Depending on the type, points are subtracted upon destruction:
     * Common: **-3**
     * Rare: **-6**
     * Epic: **-12**
     * Legendary: **-24**
-    * Exception: Indicated if present.
+    * Exception: Specified if present
 
 ## Terminology
-* **BLOCK** — any block.
+* **BLOCK** - any block
 
 ## List
 
 ### Common
 
-* [**LEAVES**](#leaves)
-* [**WOOD**](#wood)
+* [**Leaves**](#leaves)
+* [**Wood**](#wood)
 
 ### Rare
 
-* [**ICE**](#ice)
-* [**MAGMA**](#magma)
+* [**Ice**](#ice)
+* [**Magma**](#magma)
 
 ### Epic
 
-* [**OBSIDIAN**](#obsidian)
-* [**GOLD**](#gold)
+* [**Obidian**](#obsidian)
+* [**Gold**](#gold)
 
 ### Legendary
 
-* [**DIAMOND**](#diamond)
+* [**Diamnd**](#diamond)
 
 ## Blocks
 
-### LEAVES
+### Leaves
 * **Type:** [Common](#rarity)
 * **Action:**
-    * +1
-* **Break:**
+    * You gain **+1**
+* **Destruction:**
 
-### WOOD
+### Wood
 * **Type:** [Common](#rarity)
 * **Action:**
-    * +2 for Each **LEAVES**
-* **Break:**
+    * IF there is **Leaves**
+    * You gain **+2** for **Each**
+* **Destruction:** Each
 
-### ICE
+### Ice
 * **Type:** [Rare](#rarity)
 * **Action:**
-    * If **MAGMA** is present
-        * +6
-        * Converts **MAGMA** into **OBSIDIAN**
-* **Break:**
+    * IF there is **Magma**
+        * You gain **+6**
+        * **Magma** turns into **Obsidian**
+* **Destruction:**
 
-### MAGMA
+### Magma
 * **Type:** [Rare](#rarity)
 * **Action:**
-    * If **BLOCK** is present
-        * Destroys **BLOCK**
-        * -1 for Each
-* **Break:**
+    * IF there is **Any block**
+        * Destroys the **Block**
+        * You lose **-1** for **Each Block**
+* **Destruction:**
 
-### OBSIDIAN
+### Obsidian
 * **Type:** [Epic](#rarity)
 * **Action:**
-    * If **BLOCK** is present (except **OBSIDIAN**)
-        * Protects **BLOCK** from Break
-    * Effect triggers on Placement or **MAGMA** Conversion
-* **Break:**
+    * IF there is **Any block** (except **Obsidian**)
+        * The **Block** gains Protection from Destruction
+    * Triggers upon **Magma** transformation
+* **Destruction:**
 
-### GOLD
+### Gold
 * **Type:** [Epic](#rarity)
 * **Action:**
-    * +6
-    * If **GOLD** is present
-        * +2 for Each
-* **Break:**
+    * You gain **+6**
+    * IF there is **Gold**
+        * You gain **+2** for **Each**
+* **Destruction:**
 
-### DIAMOND
+### Diamond
 * **Type:** [Legendary](#rarity)
 * **Action:**
-    * +12
-    * If **GOLD** is present
-        * +12 for Each
-* **Break:**
+    * You gain **+12**
+    * IF **Gold** is present
+        * You gain **+12** for **Each**
+* **Destruction:**
